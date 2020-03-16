@@ -45,7 +45,7 @@ ul li a {
 body {
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: justify;
-    background-image: url(../imagenes/fondo.png);
+    background-image: url(fondo.png);
     background-repeat: repeat;
 }
 
